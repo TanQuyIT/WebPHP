@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(230, 194, 148, 0.548);;
+}
+
+img[src=""]{
+    display: none;
+}
